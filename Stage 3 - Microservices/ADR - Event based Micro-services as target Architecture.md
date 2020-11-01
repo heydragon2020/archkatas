@@ -35,3 +35,5 @@ All services logs are pulled into centralized logging big data store, where vari
 Such a advanced and flexible architecture comes up with costly production system maintenance / SRE, complex monitoring and issue investigation.
 
 Along with that automated end to end testing becomes a quite big challenge. Any bugs and issues investigation requires checking multiple services logs. So centralized logging solution becomes a way to slightly mitigate that aspect.
+
+![alt text](./Evolution%20Stage%203%20-%20Event%20based%20Microservice%20Architecture.png?raw=true)
