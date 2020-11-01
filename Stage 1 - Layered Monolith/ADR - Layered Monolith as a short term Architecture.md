@@ -15,3 +15,5 @@ Use a Layered Monolith Architecture as a pragmatic initial approach but with a c
 ## Consequences
 
 We get a faster time to market but incur the risk of taking longer (or even worse, being blocked) to get to a more future proof Architecture.
+
+![alt text](./Evolution%20Stage%201%20-%20Layered%20Monolith%20Architecture.png?raw=true)
