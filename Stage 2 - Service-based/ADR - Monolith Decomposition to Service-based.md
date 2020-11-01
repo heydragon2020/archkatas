@@ -17,3 +17,5 @@ The decision was to decompose the monolith architecture into service-based archi
 * Scaling is now more fine-grained where we can make individual scaling decision per service as opposed to monolith where all scaling decisions affect the system as a whole.
 * More deployment artifacts for DevOps to maintain.
 * Shared database accessed by multiple independent services needs some partitioning technique applied.
+
+![alt text](./Evolution%20Stage%202%20-%20Service-based%20Architecture.png?raw=true)
